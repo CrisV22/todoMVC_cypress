@@ -1,0 +1,10 @@
+{
+  "name": "bootcamp-todomvc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Cristian Oliveira",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.8.1"
+  }
+}
