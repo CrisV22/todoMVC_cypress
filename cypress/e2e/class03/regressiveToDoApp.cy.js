@@ -9,7 +9,7 @@ describe(('To do app regression test'), () => {
 
         it('Validate input label', () => {
             telaInicial.validateLabel("What needs to be done?")
-        })
+        });
     })
     
     context('Validate items addition', () => {
